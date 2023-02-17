@@ -29,3 +29,7 @@
 * *git log* - журнал комитов
 
 * *git diff 5301 f4e28* - отображение отличий между комитами
+
+lkjshdgkhsl
+
+sagasgas
